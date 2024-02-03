@@ -77,6 +77,6 @@ export const tours = [
     info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
     location: "kenya",
     duration: "20 days",
-    cost: "from $3300",
+    cost: "from $3500",
   },
 ];
